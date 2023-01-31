@@ -11,7 +11,7 @@ import statistics
 import math
 
 # ==================================================================
-# INTRODUCTORY SCREEN PRINTS - BACKGROUND INFORMATION
+# TASK 3       Introductory Screen Prints & Background Information
 # ==================================================================
 
 if __name__ == "__main__":
@@ -34,7 +34,7 @@ if __name__ == "__main__":
 
 
 # ==================================================================
-# SETUP LISTS      (Task 3. Numeric Lists)
+# TASK 3      Numeric Lists (Setup Lists)
 # ==================================================================
 
 list1= [
@@ -226,7 +226,7 @@ if __name__ == "__main__":
     maximum = max(list1)
     print(f"MAXIMUM = {maximum}")
     number = len(list1)
-    print(f"NUMBER = {number}")
+    print(f"NUMBER OF ITEMS IN LIST = {number}")
     sumlist1 = sum(list1)
     print(f"SUM = {sumlist1}")
     average = round(sumlist1 / number,2)
