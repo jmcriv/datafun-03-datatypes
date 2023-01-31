@@ -7,49 +7,55 @@ Domain=Puzzles
 
 """
 
-import statistics
-import math
-import random
-
 # ==================================================================
-# TASK 4       Introductory Screen Prints & Background Information
+# TASK 3       Introductory Screen Prints & Background Information
 # ==================================================================
 
 if __name__ == "__main__":
     print()
-    print("====================")
-    print("TASK 4 PROGRAM START")
-    print("====================")
+    print()
+    print("Good morning! My name is Jim, and this program will focus on games I have played and string functions.")
+    print("I have developed 5 lists with names of games - all grouped by their first letter - A, B, C, D, and M.")
+    print()
     print()
 
+# ==================================================================
+# TASK 4       String Lists (Setup Lists & Imports)
+# ==================================================================
 
-# ==================================================================
-# TASK 4       String Lists (Setup Lists)
-# ==================================================================
+import statistics
+import math
+import random
 
 listA = ["ABC", "Acrofit", "Acrostic", "Addoku", "Alphacipher", "Anagrams", "Anagrid", "Anakross"]
-print("LIST A")
+print("Here is LIST A")
+print("----------------------------------------")
 print(listA)
 print()
 
 listB = ["Backtrack", "Backwards", "Batoru", "Boggle", "Boxwise", "Bracer"]
-print("LIST B")
+print("Here is LIST B")
+print("----------------------------------------")
 print(listB)
 print()
 
 listC = ["Calcudoku", "Campixu", "Campsite", "CanCan", "Chopsticks"]
-print("LIST C")
+print("Here is LIST C")
+print("----------------------------------------")
 print(listC)
 print()
 
 listD = ["Dampfross", "Dateline", "Diagramless", "DigitALL", "Dilemma", "Dingbats", "Dominoes"]
-print("LIST D")
+print("Here is LIST D")
+print("----------------------------------------")
 print(listD)
 print()
 
 listE = ["Magipic", "Majipiku", "Masyu", "MinuPlu"]
-print("LIST E")
+print("Here is LIST E")
+print("----------------------------------------")
 print(listE)
+print()
 print()
 
 
@@ -60,54 +66,53 @@ print()
 if __name__ == "__main__":
     print("TASK 4 SECTION - String Lists 1. Using Python Built-in Functions:")
     print("=================================================================")
-    print("We will be calculating assorted built-in functions including:")
-    print("Len, Set, and Zip.")
+    print("We will be using the Len, Set, and Zip functions:")
     print()
     print("LIST A PROCESSING")
     print("-----------------")
     number = len(listA)
-    print(f"NUMBER OF ITEMS IN LIST A = {number}")
+    print(f"LEN A = NUMBER OF ITEMS IN LIST A = {number}")
     setlistA = set(listA)
-    print(f"SET = {setlistA}")
+    print(f"SET A = {setlistA}")
     print()
     print("LIST B PROCESSING")
     print("-----------------")
     number = len(listB)
-    print(f"NUMBER OF ITEMS IN LIST B = {number}")
+    print(f"LEN B = NUMBER OF ITEMS IN LIST B = {number}")
     setlistB = set(listB)
-    print(f"SET = {setlistB}")
+    print(f"SET B = {setlistB}")
     print()
     print("LIST C PROCESSING")
     print("-----------------")
     number = len(listC)
-    print(f"NUMBER OF ITEMS IN LIST C = {number}")
+    print(f"LEN C = NUMBER OF ITEMS IN LIST C = {number}")
     setlistC = set(listC)
-    print(f"SET = {setlistC}")
-    print()
+    print(f"SET C = {setlistC}")
     print()
     print("LIST D PROCESSING")
     print("-----------------")
     number = len(listD)
-    print(f"NUMBER OF ITEMS IN LIST D = {number}")
+    print(f"LEN D = NUMBER OF ITEMS IN LIST D = {number}")
     setlistD = set(listD)
-    print(f"SET = {setlistD}")
+    print(f"SET D = {setlistD}")
     print()
     print("LIST E PROCESSING")
     print("-----------------")
     number = len(listE)
-    print(f"NUMBER OF ITEMS IN LIST E = {number}")
+    print(f"LEN E = NUMBER OF ITEMS IN LIST E = {number}")
     setlistE = set(listE)
-    print(f"SET = {setlistE}")
+    print(f"SET E = {setlistE}")
     print()
-    print("TUPLE of LIST A & LISTB")
-    print("-----------------------")
+    print("ZIP = TUPLE of LIST A & LISTB")
+    print("-----------------------------")
     for LA, LB in zip(listA,listB):        
         print(f'LA={listA}; LB={listB}')
     print()
-    print("TUPLE of LIST C & LIST D & LIST E")
-    print("--------------------------------")
+    print("ZIP = TUPLE of LIST C & LIST D & LIST E")
+    print("---------------------------------------")
     for LC, LE, LF in zip(listC,listD,listE):      
         print(f'LC={listC}; LD={listD}; LE={listE}')
+    print()
     print()
 
 
@@ -118,7 +123,7 @@ if __name__ == "__main__":
 if __name__ == "__main__":
     print("TASK 4 SECTION - String Lists 2. Random Lists:")
     print("==============================================")
-    print("We will be using the Random Choice function")
+    print("We will be using the Random Choice function to pick one random game from each list.")
     print()
 
     listA = ["ABC", "Acrofit", "Acrostic", "Addoku", "Alphacipher", "Anagrams", "Anagrid", "Anakross"]
@@ -147,126 +152,137 @@ if __name__ == "__main__":
     print()
 
     sentence = (
-        f"The five games I like to play the most are {random.choice(listA)}, {random.choice(listB)}, "
+        f"Five random games I like to play are {random.choice(listA)}, {random.choice(listB)}, "
         f"{random.choice(listC)}, {random.choice(listD)}, and {random.choice(listE)}."
     )
     print()
     print(sentence)
     print()
+    print()
     
+# ==================================================================
+# TASK 4       String Lists 3. Get Unique Words
+# ==================================================================
+
+if __name__ == "__main__":
+    print("TASK 4 SECTION - String Lists 3. Get Unique Words:")
+    print("==================================================")
+    print("We will be using the Open, Read, Split, and Set functions.")
+    print()
+
+    print("OPEN TEXT FILE (text_names_in) AND PRINT CONTENTS")
+    print("-------------------------------------------------")
+    names = open('text_names_in.txt')
+    namescontents = names.read()
+    print(namescontents)
+    print()
+    print()
+    
+    print("OPEN TEXT FILE (text_names_in), READ CONTENTS, AND PRINT CONTENTS")
+    print("-----------------------------------------------------------------")
+    with open('text_names_in.txt') as namesread:
+        readcontents = namesread.read()
+        print(readcontents)
+        print()
+        print()
+
+    print("USE SET, OPEN TEXT FILE (text_names_in), READ UNIQUE CONTENTS, OUTPUT UNIQUE TO NEW FILE, AND PRINT NEW FILE CONTENTS")
+    print("       (FYI - Added duplicate items to end of INPUT file since there were no duplicates in the file.)")
+    print("----------------------------------------------------------------------------------------------------------------------")
+    print()
+    foundset = set()
+    with open('text_names_in.txt') as inputfile:
+        with open('text_names_out.txt','w') as outputfile:
+            for line in inputfile:
+                if line not in foundset:
+                    outputfile.write(line)
+                    foundset.add(line)
+        with open('text_names_out.txt') as outputfile:
+            readcontents = outputfile.read()
+            print(readcontents)
+            print()
 
     
-
-"""
-# imports first
-
-# reusable functions next
-
-# call functions and execute code
-# use if __name__ == "__main__":
-
-
-Examples of using string lists
-
-
-import random
-
-# Define a string list
-list_names = ["Alice", "Bob", "Charlie", "Diana", "Eve", "Frank"]
-
-# Define a list of outcomes
-list_outcomes = ["win", "lose", "draw"]
-
-# Define a list of calls
-list_calls = ["heads", "tails"]
-
-# Define a list for rock, paper, scissors
-list_rps = ["rock", "paper", "scissors"]
-
-# Define a list of colors
-list_colors = ["red", "green", "blue", "yellow", "orange", "purple"]
-
-# Define a list of nouns
-list_nouns = ["dog", "cat", "mouse", "bird", "fish", "snake"]
-
-# Define a list of verbs
-list_verbs = ["runs", "jumps", "swims", "flies", "crawls", "studies"]
-
-# Define a list of adjectives
-list_adjectives = ["happy", "sad", "angry", "scared", "confused", "bored"]
-
-# Define a list of adverbs
-list_adverbs = ["quickly", "slowly", "happily", "sadly", "angrily", "scaredly"]
-
-
-# read in woodchuck to get a list of words
-with open("text_woodchuck.txt", "r") as fileObject:
-    text = fileObject.read()
-    list_words = text.split()  # split on whitespace
-    unique_words = set(list_words)  # remove duplicates
-
-# Print the count and list of words
-word_ct = len(list_words)
-
-# Print the count and list of unique words
-unique_word_ct = len(unique_words)
-
-
-# Create a random sentence
-# e.g. "The angry dog runs quickly."
-sentence = (
-    f"The {random.choice(list_adjectives)} {random.choice(list_nouns)} "
-    f"{random.choice(list_verbs)} {random.choice(list_adverbs)}."
-)
-print()
-print(sentence)
-print()
-print("To see more results, add print statements to the code.")
-print("To play a continuous game, modify the code.")
-print("Use these examples to learn lists and transformations.")
-print("Then apply what you know to your domain.")
-print()
-
-
-# Game bot for rock, paper, scissors ................
-
-# Define a function to get the winner message
-# Use keyword arguments to be clear about the order of the arguments
-def get_winner_message(userguess, botguess):
-    if userguess == botguess:
-        return "We tied!"
-    elif userguess == "rock":
-        if botguess == "paper":
-            return "I win!"
-        else:
-            return "You win!"
-
-
-ready_for_continous_game = False  # change this when ready
-
-while True:
-    if not ready_for_continous_game:
-        quit()  # don't get stuck in an infinite loop until ready
-
+    print("USE SET, OPEN, READ, and SPLIT functions to pull a text file's data starting with letter P. Using file text_names_in.")
+    print("       (FYI - Added duplicate items to end of INPUT file since there were no duplicates in the file.)")
+    print("---------------------------------------------------------------------------------------------------------------------")
     print()
-    user_choice = input("Say rock, paper, or scissors or q to quit:")
-    if user_choice == "q":
-        break  # break out of the loop
-    # if still here, the bot makes a choice
-    # don't indent unnecessarily
-    bot_choice = random.choice(list_rps)
-    print(f"You said {user_choice}.")
-    print(f"I said {bot_choice}.")
-    # When calling a function, the order of arguments matters!
-    # We don't want to accidentally provide the guesses in the wrong order
-    # So we'll use keyword arguments so the order doesn't matter
-    msg1 = get_winner_message(userguess=user_choice, botguess=bot_choice)
-    msg2 = get_winner_message(botguess=bot_choice, userguess=user_choice)
-    if msg1 == msg2:
-        print(msg1)
-    print()
-    print("This program will run forever unless you type q to quit.")
-    print("or use Ctrl-C to stop the program.")
+    foundset = set()
+    with open('text_names_in.txt') as inputfile:
+        with open('text_names_out2.txt','w') as outputfile:
+            for line in inputfile:
+                if line.startswith('P'):
+                    text = str(line.split(', ',2))
+                    outputfile.write(text)
+                    foundset.add(line)
+        with open('text_names_out2.txt') as outputfile:
+            readcontents1 = outputfile.read()
+            print("OUTPUT FILE CONTENT")
+            print(readcontents1)
+            print()
+            readcontents2 = foundset
+            print("SET CONTENT")
+            print(readcontents2)
+            print()
+
+    print("USE SPLIT functions to pull a text file's data and separate with commas.")
+    print("------------------------------------------------------------------------")
     print()
 
-"""
+    # def split(word):
+    #     return list(word)
+    # word = "BINGO"
+    # print(split(word))
+
+    
+    with open('text_simple_in.txt') as inputfile2:
+        readcontentsX = inputfile2.read()
+        print("TEXT SIMPLE IN FILE BEFORE SPLIT")
+        print(readcontentsX)
+        print()
+          
+    foundset = set()
+    with open('text_simple_in.txt') as inputfile2:
+        with open('text_simple_out.txt','w') as outputfile2:
+            print("TEXT SIMPLE IN FILE AFTER SPLIT")
+            for line in inputfile2:
+                text1=line
+                def split(text1):
+                    return list(text1)
+                # text1=line 
+                print(split(text1)) 
+                text2 = str(split(text1))           
+                outputfile2.write(text2)
+                foundset.add(line)
+
+    print()
+    print()
+    print("USE SORT and LEN")
+    print("----------------")
+    print()
+    
+    
+    foundset = set()
+    with open('text_names_in2.txt') as inputfile:
+        with open('text_names_out3.txt','w') as outputfile:
+            contentsinput1 = inputfile.readlines()
+            print("SORTED NAMES FROM TEXT FILE- SEQUENTIAL")
+            contentsinput1.sort()
+            print(contentsinput1)
+            outputfile.write(str(contentsinput1))
+            print("COUNT OF NAMES IN TEXT_NAMES_3 (NORMAL SORT)")
+            leninput1 = len(contentsinput1)
+            print(leninput1)
+            print()
+    with open('text_names_in2.txt') as inputfile:
+        with open('text_names_out4.txt','w') as outputfile:
+            contentsinput2 = inputfile.readlines()
+            print("SORTED NAMES - REVERSE")
+            contentsinput2.sort(reverse=True)
+            print(contentsinput2)
+            outputfile.write(str(contentsinput2))
+            print("COUNT OF NAMES IN TEXT_NAMES_4 (REVERSE SORT)")
+            leninput2 = len(contentsinput2)
+            print(leninput2)
+            print()
+        

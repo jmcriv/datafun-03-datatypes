@@ -1,0 +1,1 @@
+['Prince\n']['Public Enemy\n']['Phil Collins\n']['Pat Benatar\n']['Peter Gabriel\n']['Paul McCartney\n']['Pet Shop Boys\n']['Paul Simon\n']['Pete Townshend\n']['Pixies\n']['Pink Floyd\n']['Poison\n']['Paula Abdul\n']['Patti LaBelle\n']['Paul Young\n']['Pat Benatar\n']['Peter Gabriel\n']
