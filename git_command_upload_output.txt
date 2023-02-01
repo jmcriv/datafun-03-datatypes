@@ -1,0 +1,36 @@
+
+PS C:\Users\JMC\Documents\datafun-03-datatypes> git add .
+PS C:\Users\JMC\Documents\datafun-03-datatypes> git commit - m "added code"
+error: pathspec '-' did not match any file(s) known to git
+error: pathspec 'm' did not match any file(s) known to git
+error: pathspec 'added code' did not match any file(s) known to git
+PS C:\Users\JMC\Documents\datafun-03-datatypes> git commit -m "added code" 
+[main 694538f] added code
+ 22 files changed, 3015 insertions(+), 528 deletions(-)
+ create mode 100644 JMC REF.py
+ create mode 100644 text_names_in - Copy.txt
+ create mode 100644 text_names_in2.txt
+ create mode 100644 text_names_out.txt
+ create mode 100644 text_names_out2.txt
+ create mode 100644 text_names_out4.txt
+ create mode 100644 text_simple_in.txt
+ create mode 100644 text_simple_out.txt
+ create mode 100644 user_numeric_lists_out.py
+ create mode 100644 user_numeric_lists_reference_notes.py
+ create mode 100644 user_string_lists_out.py
+ create mode 100644 user_string_lists_reference_notes.py
+ create mode 100644 user_tuples_etc_out.py
+ create mode 100644 user_tuples_etc_reference_notes.py
+ create mode 100644 xtra_p3_out.py
+ create mode 100644 xtra_p3_reference_notes.py
+PS C:\Users\JMC\Documents\datafun-03-datatypes> git push origin main
+Enumerating objects: 27, done.
+Counting objects: 100% (27/27), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (21/21), done.
+Writing objects: 100% (21/21), 22.93 KiB | 2.87 MiB/s, done.
+Total 21 (delta 6), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (6/6), completed with 4 local objects.
+To https://github.com/jmcriv/datafun-03-datatypes.git
+   d2779be..694538f  main -> main
+PS C:\Users\JMC\Documents\datafun-03-datatypes> 

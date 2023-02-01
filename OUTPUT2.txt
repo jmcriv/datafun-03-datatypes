@@ -1,0 +1,895 @@
+PS C:\Users\JMC\Documents\datafun-03-datatypes> & C:/Users/JMC/AppData/Local/Programs/Python/Python311/python.exe c:/Users/JMC/Documents/datafun-03-datatypes/user_string_lists.py
+
+
+
+LIST A
+['ABC', 'Acrofit', 'Acrostic', 'Addoku', 'Alphacipher', 'Anagrams', 'Anagrid', 'Anakross'] 
+
+
+LIST C
+['Calcudoku', 'Campixu', 'Campsite', 'CanCan', 'Chopsticks', 'Cluewords', 'Codeword', 'Continuity']
+
+LIST D
+['Dampfross', 'Dateline', 'Diagramless', 'DigitALL', 'Dilemma', 'Dingbats', 'Dominoes', 'Doppelstern']
+
+LIST E
+['Magipic', 'Majipiku', 'Masyu', 'MinuPlu', 'Misprints', 'Mosaic', 'Mosaico', 'Mosaik']
+
+PS C:\Users\JMC\Documents\datafun-03-datatypes> & C:/Users/JMC/AppData/Local/Programs/Python/Python311/python.exe c:/Users/JMC/Documents/datafun-03-datatypes/user_string_lists.py
+
+
+
+LIST A
+['ABC', 'Acrofit', 'Acrostic', 'Addoku', 'Alphacipher', 'Anagrams', 'Anagrid', 'Anakross']
+
+
+LIST C
+['Calcudoku', 'Campixu', 'Campsite', 'CanCan', 'Chopsticks', 'Cluewords', 'Codeword', 'Continuity']
+
+LIST D
+['Dampfross', 'Dateline', 'Diagramless', 'DigitALL', 'Dilemma', 'Dingbats', 'Dominoes', 'Doppelstern']
+
+LIST E
+['Magipic', 'Majipiku', 'Masyu', 'MinuPlu', 'Misprints', 'Mosaic', 'Mosaico', 'Mosaik']
+
+PS C:\Users\JMC\Documents\datafun-03-datatypes> & C:/Users/JMC/AppData/Local/Programs/Python/Python311/python.exe c:/Users/JMC/Documents/datafun-03-datatypes/user_string_lists.py
+
+====================
+TASK 4 PROGRAM START
+====================
+
+LIST A
+['ABC', 'Acrofit', 'Acrostic', 'Addoku', 'Alphacipher', 'Anagrams', 'Anagrid', 'Anakross']
+
+
+LIST C
+['Calcudoku', 'Campixu', 'Campsite', 'CanCan', 'Chopsticks', 'Cluewords', 'Codeword', 'Continuity']
+
+LIST D
+['Dampfross', 'Dateline', 'Diagramless', 'DigitALL', 'Dilemma', 'Dingbats', 'Dominoes', 'Doppelstern']
+
+LIST E
+['Magipic', 'Majipiku', 'Masyu', 'MinuPlu', 'Misprints', 'Mosaic', 'Mosaico', 'Mosaik']
+
+PS C:\Users\JMC\Documents\datafun-03-datatypes> & C:/Users/JMC/AppData/Local/Programs/Python/Python311/python.exe c:/Users/JMC/Documents/datafun-03-datatypes/user_string_lists.py
+
+====================
+TASK 4 PROGRAM START
+====================
+
+LIST A
+['ABC', 'Acrofit', 'Acrostic', 'Addoku', 'Alphacipher', 'Anagrams', 'Anagrid', 'Anakross']
+
+LIST B
+['Backtrack', 'Backwards', 'Batoru', 'Boggle', 'Boxwise', 'Bracer']
+
+LIST C
+['Calcudoku', 'Campixu', 'Campsite', 'CanCan', 'Chopsticks']
+
+LIST D
+['Dampfross', 'Dateline', 'Diagramless', 'DigitALL', 'Dilemma', 'Dingbats', 'Dominoes']
+
+
+TASK 4 SECTION - String Lists 1. Using Python Built-in Functions:
+=================================================================
+We will be calculating assorted built-in functions including:
+Len, Set, and Zip.
+
+LIST A PROCESSING
+-----------------
+NUMBER OF ITEMS IN LIST A = 8
+SET = {'Acrostic', 'Acrofit', 'Alphacipher', 'Anakross', 'Anagrams', 'Addoku', 'Anagrid', 'ABC'}
+PS C:\Users\JMC\Documents\datafun-03-datatypes> & C:/Users/JMC/AppData/Local/Programs/Python/Python311/python.exe c:/Users/JMC/Documents/datafun-03-datatypes/user_string_lists.py
+
+====================
+TASK 4 PROGRAM START
+====================
+
+LIST A
+['ABC', 'Acrofit', 'Acrostic', 'Addoku', 'Alphacipher', 'Anagrams', 'Anagrid', 'Anakross']
+
+LIST B
+['Backtrack', 'Backwards', 'Batoru', 'Boggle', 'Boxwise', 'Bracer']
+
+LIST C
+['Calcudoku', 'Campixu', 'Campsite', 'CanCan', 'Chopsticks']
+
+LIST D
+['Dampfross', 'Dateline', 'Diagramless', 'DigitALL', 'Dilemma', 'Dingbats', 'Dominoes']
+
+LIST E
+['Magipic', 'Majipiku', 'Masyu', 'MinuPlu']
+
+TASK 4 SECTION - String Lists 1. Using Python Built-in Functions:
+=================================================================
+We will be calculating assorted built-in functions including:
+Len, Set, and Zip.
+
+LIST A PROCESSING
+-----------------
+NUMBER OF ITEMS IN LIST A = 8
+SET = {'Anagrams', 'Addoku', 'Anagrid', 'Acrostic', 'Anakross', 'Acrofit', 'ABC', 'Alphacipher'}
+
+LIST B PROCESSING
+-----------------
+NUMBER OF ITEMS IN LIST B = 6
+SET = {'Backwards', 'Boggle', 'Batoru', 'Boxwise', 'Bracer', 'Backtrack'}
+
+LIST C PROCESSING
+-----------------
+NUMBER OF ITEMS IN LIST C = 5
+SET = {'CanCan', 'Campixu', 'Campsite', 'Chopsticks', 'Calcudoku'}
+LIST D PROCESSING
+-----------------
+NUMBER OF ITEMS IN LIST D = 7
+SET = {'Dilemma', 'Dominoes', 'Diagramless', 'DigitALL', 'Dampfross', 'Dateline', 'Dingbats'}
+
+LIST E PROCESSING
+-----------------
+NUMBER OF ITEMS IN LIST E = 4
+SET = {'Masyu', 'MinuPlu', 'Magipic', 'Majipiku'}
+
+PS C:\Users\JMC\Documents\datafun-03-datatypes> & C:/Users/JMC/AppData/Local/Programs/Python/Python311/python.exe c:/Users/JMC/Documents/datafun-03-datatypes/user_string_lists.py
+
+====================
+TASK 4 PROGRAM START
+====================
+
+LIST A
+['ABC', 'Acrofit', 'Acrostic', 'Addoku', 'Alphacipher', 'Anagrams', 'Anagrid', 'Anakross']
+
+LIST B
+['Backtrack', 'Backwards', 'Batoru', 'Boggle', 'Boxwise', 'Bracer']
+
+LIST C
+['Calcudoku', 'Campixu', 'Campsite', 'CanCan', 'Chopsticks']
+
+LIST D
+['Dampfross', 'Dateline', 'Diagramless', 'DigitALL', 'Dilemma', 'Dingbats', 'Dominoes']
+
+LIST E
+['Magipic', 'Majipiku', 'Masyu', 'MinuPlu']
+
+TASK 4 SECTION - String Lists 1. Using Python Built-in Functions:
+=================================================================
+We will be calculating assorted built-in functions including:
+Len, Set, and Zip.
+
+LIST A PROCESSING
+-----------------
+NUMBER OF ITEMS IN LIST A = 8
+SET = {'Addoku', 'Anakross', 'ABC', 'Alphacipher', 'Anagrams', 'Anagrid', 'Acrofit', 'Acrostic'}
+
+LIST B PROCESSING
+-----------------
+NUMBER OF ITEMS IN LIST B = 6
+SET = {'Backwards', 'Bracer', 'Batoru', 'Boxwise', 'Backtrack', 'Boggle'}
+
+LIST C PROCESSING
+-----------------
+NUMBER OF ITEMS IN LIST C = 5
+SET = {'Calcudoku', 'CanCan', 'Chopsticks', 'Campixu', 'Campsite'}
+
+
+LIST D PROCESSING
+-----------------
+NUMBER OF ITEMS IN LIST D = 7
+SET = {'Diagramless', 'Dominoes', 'Dampfross', 'Dilemma', 'Dingbats', 'Dateline', 'DigitALL'}
+
+LIST E PROCESSING
+-----------------
+
+TUPLE OF LISTS
+-----------------
+LA=['ABC', 'Acrofit', 'Acrostic', 'Addoku', 'Alphacipher', 'Anagrams', 'Anagrid', 'Anakross']; LB=['Backtrack', 'Backwards', 'Batoru', 'Boggle', 'Boxwise', 'Bracer']
+LA=['ABC', 'Acrofit', 'Acrostic', 'Addoku', 'Alphacipher', 'Anagrams', 'Anagrid', 'Anakross']; LB=['Backtrack', 'Backwards', 'Batoru', 'Boggle', 'Boxwise', 'Bracer']
+LA=['ABC', 'Acrofit', 'Acrostic', 'Addoku', 'Alphacipher', 'Anagrams', 'Anagrid', 'Anakross']; LB=['Backtrack', 'Backwards', 'Batoru', 'Boggle', 'Boxwise', 'Bracer']
+LA=['ABC', 'Acrofit', 'Acrostic', 'Addoku', 'Alphacipher', 'Anagrams', 'Anagrid', 'Anakross']; LB=['Backtrack', 'Backwards', 'Batoru', 'Boggle', 'Boxwise', 'Bracer']
+LA=['ABC', 'Acrofit', 'Acrostic', 'Addoku', 'Alphacipher', 'Anagrams', 'Anagrid', 'Anakross']; LB=['Backtrack', 'Backwards', 'Batoru', 'Boggle', 'Boxwise', 'Bracer']
+LA=['ABC', 'Acrofit', 'Acrostic', 'Addoku', 'Alphacipher', 'Anagrams', 'Anagrid', 'Anakross']; LB=['Backtrack', 'Backwards', 'Batoru', 'Boggle', 'Boxwise', 'Bracer']
+
+PS C:\Users\JMC\Documents\datafun-03-datatypes> & C:/Users/JMC/AppData/Local/Programs/Python/Python311/python.exe c:/Users/JMC/Documents/datafun-03-datatypes/user_string_lists.py
+
+====================
+TASK 4 PROGRAM START
+====================
+
+LIST A
+['ABC', 'Acrofit', 'Acrostic', 'Addoku', 'Alphacipher', 'Anagrams', 'Anagrid', 'Anakross']
+
+LIST B
+['Backtrack', 'Backwards', 'Batoru', 'Boggle', 'Boxwise', 'Bracer']
+
+LIST C
+['Calcudoku', 'Campixu', 'Campsite', 'CanCan', 'Chopsticks']
+
+LIST D
+['Dampfross', 'Dateline', 'Diagramless', 'DigitALL', 'Dilemma', 'Dingbats', 'Dominoes']
+
+LIST E
+['Magipic', 'Majipiku', 'Masyu', 'MinuPlu']
+
+TASK 4 SECTION - String Lists 1. Using Python Built-in Functions:
+=================================================================
+We will be calculating assorted built-in functions including:
+Len, Set, and Zip.
+
+LIST A PROCESSING
+-----------------
+NUMBER OF ITEMS IN LIST A = 8
+SET = {'Alphacipher', 'Anagrid', 'Addoku', 'Acrostic', 'Acrofit', 'Anakross', 'ABC', 'Anagrams'}
+
+LIST B PROCESSING
+-----------------
+NUMBER OF ITEMS IN LIST B = 6
+SET = {'Backwards', 'Bracer', 'Boggle', 'Backtrack', 'Boxwise', 'Batoru'}
+
+LIST C PROCESSING
+-----------------
+NUMBER OF ITEMS IN LIST C = 5
+SET = {'Campixu', 'Calcudoku', 'Campsite', 'Chopsticks', 'CanCan'}
+
+
+LIST D PROCESSING
+-----------------
+NUMBER OF ITEMS IN LIST D = 7
+SET = {'Dominoes', 'Dingbats', 'DigitALL', 'Dateline', 'Dampfross', 'Dilemma', 'Diagramless'}
+
+LIST E PROCESSING
+-----------------
+NUMBER OF ITEMS IN LIST E = 4
+SET = {'MinuPlu', 'Magipic', 'Masyu', 'Majipiku'}
+
+TUPLE OF LISTS
+-----------------
+LA=['ABC', 'Acrofit', 'Acrostic', 'Addoku', 'Alphacipher', 'Anagrams', 'Anagrid', 'Anakross']; LB=['Backtrack', 'Backwards', 'Batoru', 'Boggle', 'Boxwise', 'Bracer']
+LA=['ABC', 'Acrofit', 'Acrostic', 'Addoku', 'Alphacipher', 'Anagrams', 'Anagrid', 'Anakross']; LB=['Backtrack', 'Backwards', 'Batoru', 'Boggle', 'Boxwise', 'Bracer']
+LA=['ABC', 'Acrofit', 'Acrostic', 'Addoku', 'Alphacipher', 'Anagrams', 'Anagrid', 'Anakross']; LB=['Backtrack', 'Backwards', 'Batoru', 'Boggle', 'Boxwise', 'Bracer']
+LA=['ABC', 'Acrofit', 'Acrostic', 'Addoku', 'Alphacipher', 'Anagrams', 'Anagrid', 'Anakross']; LB=['Backtrack', 'Backwards', 'Batoru', 'Boggle', 'Boxwise', 'Bracer']
+LA=['ABC', 'Acrofit', 'Acrostic', 'Addoku', 'Alphacipher', 'Anagrams', 'Anagrid', 'Anakross']; LB=['Backtrack', 'Backwards', 'Batoru', 'Boggle', 'Boxwise', 'Bracer']
+-----------------
+LC=['Calcudoku', 'Campixu', 'Campsite', 'CanCan', 'Chopsticks']; LD=['Dampfross', 'Dateline', 'Diagramless', 'DigitALL', 'Dilemma', 'Dingbats', 'Dominoes']; LE=['Magipic', 'Majipiku', 'Masyu', 'MinuPlu']
+LC=['Calcudoku', 'Campixu', 'Campsite', 'CanCan', 'Chopsticks']; LD=['Dampfross', 'Dateline', 'Diagramless', 'DigitALL', 'Dilemma', 'Dingbats', 'Dominoes']; LE=['Magipic', 'Majipiku', 'Masyu', 'MinuPlu']
+LC=['Calcudoku', 'Campixu', 'Campsite', 'CanCan', 'Chopsticks']; LD=['Dampfross', 'Dateline', 'Diagramless', 'DigitALL', 'Dilemma', 'Dingbats', 'Dominoes']; LE=['Magipic', 'Majipiku', 'Masyu', 'MinuPlu']
+LC=['Calcudoku', 'Campixu', 'Campsite', 'CanCan', 'Chopsticks']; LD=['Dampfross', 'Dateline', 'Diagramless', 'DigitALL', 'Dilemma', 'Dingbats', 'Dominoes']; LE=['Magipic', 'Majipiku', 'Masyu', 'MinuPlu']
+
+PS C:\Users\JMC\Documents\datafun-03-datatypes> & C:/Users/JMC/AppData/Local/Programs/Python/Python311/python.exe c:/Users/JMC/Documents/datafun-03-datatypes/user_string_lists.py
+
+====================
+TASK 4 PROGRAM START
+====================
+
+LIST A
+['ABC', 'Acrofit', 'Acrostic', 'Addoku', 'Alphacipher', 'Anagrams', 'Anagrid', 'Anakross']
+
+LIST B
+['Backtrack', 'Backwards', 'Batoru', 'Boggle', 'Boxwise', 'Bracer']
+
+LIST C
+['Calcudoku', 'Campixu', 'Campsite', 'CanCan', 'Chopsticks']
+
+LIST D
+['Dampfross', 'Dateline', 'Diagramless', 'DigitALL', 'Dilemma', 'Dingbats', 'Dominoes']
+
+LIST E
+['Magipic', 'Majipiku', 'Masyu', 'MinuPlu']
+
+TASK 4 SECTION - String Lists 1. Using Python Built-in Functions:
+=================================================================
+We will be calculating assorted built-in functions including:
+Len, Set, and Zip.
+
+LIST A PROCESSING
+-----------------
+NUMBER OF ITEMS IN LIST A = 8
+SET = {'Anakross', 'ABC', 'Addoku', 'Acrofit', 'Anagrams', 'Alphacipher', 'Acrostic', 'Anagrid'}
+
+LIST B PROCESSING
+-----------------
+NUMBER OF ITEMS IN LIST B = 6
+SET = {'Boxwise', 'Bracer', 'Backtrack', 'Batoru', 'Boggle', 'Backwards'}
+
+LIST C PROCESSING
+-----------------
+NUMBER OF ITEMS IN LIST C = 5
+SET = {'Chopsticks', 'Campsite', 'CanCan', 'Campixu', 'Calcudoku'}
+
+
+LIST D PROCESSING
+-----------------
+NUMBER OF ITEMS IN LIST D = 7
+SET = {'DigitALL', 'Dilemma', 'Diagramless', 'Dominoes', 'Dampfross', 'Dingbats', 'Dateline'}
+
+LIST E PROCESSING
+-----------------
+NUMBER OF ITEMS IN LIST E = 4
+SET = {'Magipic', 'Masyu', 'MinuPlu', 'Majipiku'}
+
+TUPLE OF LISTS
+-----------------
+LA=['ABC', 'Acrofit', 'Acrostic', 'Addoku', 'Alphacipher', 'Anagrams', 'Anagrid', 'Anakross']; LB=['Backtrack', 'Backwards', 'Batoru', 'Boggle', 'Boxwise', 'Bracer']
+LA=['ABC', 'Acrofit', 'Acrostic', 'Addoku', 'Alphacipher', 'Anagrams', 'Anagrid', 'Anakross']; LB=['Backtrack', 'Backwards', 'Batoru', 'Boggle', 'Boxwise', 'Bracer']
+LA=['ABC', 'Acrofit', 'Acrostic', 'Addoku', 'Alphacipher', 'Anagrams', 'Anagrid', 'Anakross']; LB=['Backtrack', 'Backwards', 'Batoru', 'Boggle', 'Boxwise', 'Bracer']
+LA=['ABC', 'Acrofit', 'Acrostic', 'Addoku', 'Alphacipher', 'Anagrams', 'Anagrid', 'Anakross']; LB=['Backtrack', 'Backwards', 'Batoru', 'Boggle', 'Boxwise', 'Bracer']
+LA=['ABC', 'Acrofit', 'Acrostic', 'Addoku', 'Alphacipher', 'Anagrams', 'Anagrid', 'Anakross']; LB=['Backtrack', 'Backwards', 'Batoru', 'Boggle', 'Boxwise', 'Bracer']
+-----------------
+LC=['Calcudoku', 'Campixu', 'Campsite', 'CanCan', 'Chopsticks']; LD=['Dampfross', 'Dateline', 'Diagramless', 'DigitALL', 'Dilemma', 'Dingbats', 'Dominoes']; LE=['Magipic', 'Majipiku', 'Masyu', 'MinuPlu']
+LC=['Calcudoku', 'Campixu', 'Campsite', 'CanCan', 'Chopsticks']; LD=['Dampfross', 'Dateline', 'Diagramless', 'DigitALL', 'Dilemma', 'Dingbats', 'Dominoes']; LE=['Magipic', 'Majipiku', 'Masyu', 'MinuPlu']
+LC=['Calcudoku', 'Campixu', 'Campsite', 'CanCan', 'Chopsticks']; LD=['Dampfross', 'Dateline', 'Diagramless', 'DigitALL', 'Dilemma', 'Dingbats', 'Dominoes']; LE=['Magipic', 'Majipiku', 'Masyu', 'MinuPlu']
+LC=['Calcudoku', 'Campixu', 'Campsite', 'CanCan', 'Chopsticks']; LD=['Dampfross', 'Dateline', 'Diagramless', 'DigitALL', 'Dilemma', 'Dingbats', 'Dominoes']; LE=['Magipic', 'Majipiku', 'Masyu', 'MinuPlu']
+
+PS C:\Users\JMC\Documents\datafun-03-datatypes> & C:/Users/JMC/AppData/Local/Programs/Python/Python311/python.exe c:/Users/JMC/Documents/datafun-03-datatypes/user_string_lists.py
+
+====================
+TASK 4 PROGRAM START
+====================
+
+LIST A
+['ABC', 'Acrofit', 'Acrostic', 'Addoku', 'Alphacipher', 'Anagrams', 'Anagrid', 'Anakross']
+
+LIST B
+['Backtrack', 'Backwards', 'Batoru', 'Boggle', 'Boxwise', 'Bracer']
+
+LIST C
+['Calcudoku', 'Campixu', 'Campsite', 'CanCan', 'Chopsticks']
+
+LIST D
+['Dampfross', 'Dateline', 'Diagramless', 'DigitALL', 'Dilemma', 'Dingbats', 'Dominoes']
+
+LIST E
+['Magipic', 'Majipiku', 'Masyu', 'MinuPlu']
+
+TASK 4 SECTION - String Lists 1. Using Python Built-in Functions:
+=================================================================
+We will be calculating assorted built-in functions including:
+Len, Set, and Zip.
+
+LIST A PROCESSING
+-----------------
+NUMBER OF ITEMS IN LIST A = 8
+SET = {'Addoku', 'Acrostic', 'Anakross', 'Anagrams', 'Acrofit', 'Anagrid', 'Alphacipher', 'ABC'}
+
+LIST B PROCESSING
+-----------------
+NUMBER OF ITEMS IN LIST B = 6
+SET = {'Boggle', 'Backwards', 'Bracer', 'Backtrack', 'Batoru', 'Boxwise'}
+
+LIST C PROCESSING
+-----------------
+NUMBER OF ITEMS IN LIST C = 5
+SET = {'Campixu', 'Campsite', 'Calcudoku', 'CanCan', 'Chopsticks'}
+
+
+LIST D PROCESSING
+-----------------
+NUMBER OF ITEMS IN LIST D = 7
+SET = {'Dingbats', 'Dilemma', 'Dominoes', 'Diagramless', 'Dampfross', 'DigitALL', 'Dateline'}
+
+LIST E PROCESSING
+-----------------
+NUMBER OF ITEMS IN LIST E = 4
+SET = {'Magipic', 'MinuPlu', 'Masyu', 'Majipiku'}
+
+TUPLE OF LISTS
+-----------------
+TUPLE of LIST A & LISTB
+LA=['ABC', 'Acrofit', 'Acrostic', 'Addoku', 'Alphacipher', 'Anagrams', 'Anagrid', 'Anakross']; LB=['Backtrack', 'Backwards', 'Batoru', 'Boggle', 'Boxwise', 'Bracer']
+TUPLE of LIST A & LISTB
+LA=['ABC', 'Acrofit', 'Acrostic', 'Addoku', 'Alphacipher', 'Anagrams', 'Anagrid', 'Anakross']; LB=['Backtrack', 'Backwards', 'Batoru', 'Boggle', 'Boxwise', 'Bracer']
+TUPLE of LIST A & LISTB
+LA=['ABC', 'Acrofit', 'Acrostic', 'Addoku', 'Alphacipher', 'Anagrams', 'Anagrid', 'Anakross']; LB=['Backtrack', 'Backwards', 'Batoru', 'Boggle', 'Boxwise', 'Bracer']
+TUPLE of LIST A & LISTB
+LA=['ABC', 'Acrofit', 'Acrostic', 'Addoku', 'Alphacipher', 'Anagrams', 'Anagrid', 'Anakross']; LB=['Backtrack', 'Backwards', 'Batoru', 'Boggle', 'Boxwise', 'Bracer']
+TUPLE of LIST A & LISTB
+LA=['ABC', 'Acrofit', 'Acrostic', 'Addoku', 'Alphacipher', 'Anagrams', 'Anagrid', 'Anakross']; LB=['Backtrack', 'Backwards', 'Batoru', 'Boggle', 'Boxwise', 'Bracer']
+TUPLE of LIST A & LISTB
+LA=['ABC', 'Acrofit', 'Acrostic', 'Addoku', 'Alphacipher', 'Anagrams', 'Anagrid', 'Anakross']; LB=['Backtrack', 'Backwards', 'Batoru', 'Boggle', 'Boxwise', 'Bracer']
+
+-----------------
+TUPLE of LIST C & LISTD & LIST E
+TUPLE of LIST C & LISTD & LIST E
+LC=['Calcudoku', 'Campixu', 'Campsite', 'CanCan', 'Chopsticks']; LD=['Dampfross', 'Dateline', 'Diagramless', 'DigitALL', 'Dilemma', 'Dingbats', 'Dominoes']; LE=['Magipic', 'Majipiku', 'Masyu', 'MinuPlu']
+TUPLE of LIST C & LISTD & LIST E
+LC=['Calcudoku', 'Campixu', 'Campsite', 'CanCan', 'Chopsticks']; LD=['Dampfross', 'Dateline', 'Diagramless', 'DigitALL', 'Dilemma', 'Dingbats', 'Dominoes']; LE=['Magipic', 'Majipiku', 'Masyu', 'MinuPlu']
+TUPLE of LIST C & LISTD & LIST E
+LC=['Calcudoku', 'Campixu', 'Campsite', 'CanCan', 'Chopsticks']; LD=['Dampfross', 'Dateline', 'Diagramless', 'DigitALL', 'Dilemma', 'Dingbats', 'Dominoes']; LE=['Magipic', 'Majipiku', 'Masyu', 'MinuPlu']
+
+PS C:\Users\JMC\Documents\datafun-03-datatypes> & C:/Users/JMC/AppData/Local/Programs/Python/Python311/python.exe c:/Users/JMC/Documents/datafun-03-datatypes/user_string_lists.py
+
+====================
+TASK 4 PROGRAM START
+====================
+
+LIST A
+['ABC', 'Acrofit', 'Acrostic', 'Addoku', 'Alphacipher', 'Anagrams', 'Anagrid', 'Anakross']
+
+LIST B
+['Backtrack', 'Backwards', 'Batoru', 'Boggle', 'Boxwise', 'Bracer']
+
+LIST C
+['Calcudoku', 'Campixu', 'Campsite', 'CanCan', 'Chopsticks']
+
+LIST D
+['Dampfross', 'Dateline', 'Diagramless', 'DigitALL', 'Dilemma', 'Dingbats', 'Dominoes']
+
+LIST E
+['Magipic', 'Majipiku', 'Masyu', 'MinuPlu']
+
+TASK 4 SECTION - String Lists 1. Using Python Built-in Functions:
+=================================================================
+We will be calculating assorted built-in functions including:
+Len, Set, and Zip.
+
+LIST A PROCESSING
+-----------------
+NUMBER OF ITEMS IN LIST A = 8
+SET = {'ABC', 'Anagrid', 'Anakross', 'Anagrams', 'Acrostic', 'Alphacipher', 'Acrofit', 'Addoku'}
+
+LIST B PROCESSING
+-----------------
+NUMBER OF ITEMS IN LIST B = 6
+SET = {'Backtrack', 'Backwards', 'Boxwise', 'Boggle', 'Batoru', 'Bracer'}
+
+LIST C PROCESSING
+-----------------
+NUMBER OF ITEMS IN LIST C = 5
+SET = {'Campsite', 'CanCan', 'Calcudoku', 'Chopsticks', 'Campixu'}
+
+
+LIST D PROCESSING
+-----------------
+NUMBER OF ITEMS IN LIST D = 7
+SET = {'Dateline', 'Diagramless', 'Dingbats', 'Dominoes', 'Dampfross', 'Dilemma', 'DigitALL'}
+
+LIST E PROCESSING
+-----------------
+NUMBER OF ITEMS IN LIST E = 4
+SET = {'Majipiku', 'Masyu', 'Magipic', 'MinuPlu'}
+
+TUPLE of LIST A & LISTB
+-----------------------
+LA=['ABC', 'Acrofit', 'Acrostic', 'Addoku', 'Alphacipher', 'Anagrams', 'Anagrid', 'Anakross']; LB=['Backtrack', 'Backwards', 'Batoru', 'Boggle', 'Boxwise', 'Bracer']
+LA=['ABC', 'Acrofit', 'Acrostic', 'Addoku', 'Alphacipher', 'Anagrams', 'Anagrid', 'Anakross']; LB=['Backtrack', 'Backwards', 'Batoru', 'Boggle', 'Boxwise', 'Bracer']
+LA=['ABC', 'Acrofit', 'Acrostic', 'Addoku', 'Alphacipher', 'Anagrams', 'Anagrid', 'Anakross']; LB=['Backtrack', 'Backwards', 'Batoru', 'Boggle', 'Boxwise', 'Bracer']
+LA=['ABC', 'Acrofit', 'Acrostic', 'Addoku', 'Alphacipher', 'Anagrams', 'Anagrid', 'Anakross']; LB=['Backtrack', 'Backwards', 'Batoru', 'Boggle', 'Boxwise', 'Bracer']
+LA=['ABC', 'Acrofit', 'Acrostic', 'Addoku', 'Alphacipher', 'Anagrams', 'Anagrid', 'Anakross']; LB=['Backtrack', 'Backwards', 'Batoru', 'Boggle', 'Boxwise', 'Bracer']
+LA=['ABC', 'Acrofit', 'Acrostic', 'Addoku', 'Alphacipher', 'Anagrams', 'Anagrid', 'Anakross']; LB=['Backtrack', 'Backwards', 'Batoru', 'Boggle', 'Boxwise', 'Bracer']
+--------------------------------
+LC=['Calcudoku', 'Campixu', 'Campsite', 'CanCan', 'Chopsticks']; LD=['Dampfross', 'Dateline', 'Diagramless', 'DigitALL', 'Dilemma', 'Dingbats', 'Dominoes']; LE=['Magipic', 'Majipiku', 'Masyu', 'MinuPlu']
+LC=['Calcudoku', 'Campixu', 'Campsite', 'CanCan', 'Chopsticks']; LD=['Dampfross', 'Dateline', 'Diagramless', 'DigitALL', 'Dilemma', 'Dingbats', 'Dominoes']; LE=['Magipic', 'Majipiku', 'Masyu', 'MinuPlu']
+LC=['Calcudoku', 'Campixu', 'Campsite', 'CanCan', 'Chopsticks']; LD=['Dampfross', 'Dateline', 'Diagramless', 'DigitALL', 'Dilemma', 'Dingbats', 'Dominoes']; LE=['Magipic', 'Majipiku', 'Masyu', 'MinuPlu']
+LC=['Calcudoku', 'Campixu', 'Campsite', 'CanCan', 'Chopsticks']; LD=['Dampfross', 'Dateline', 'Diagramless', 'DigitALL', 'Dilemma', 'Dingbats', 'Dominoes']; LE=['Magipic', 'Majipiku', 'Masyu', 'MinuPlu']
+
+PS C:\Users\JMC\Documents\datafun-03-datatypes> & C:/Users/JMC/AppData/Local/Programs/Python/Python311/python.exe c:/Users/JMC/Documents/datafun-03-datatypes/user_string_lists.py
+
+====================
+TASK 4 PROGRAM START
+====================
+
+LIST A
+['ABC', 'Acrofit', 'Acrostic', 'Addoku', 'Alphacipher', 'Anagrams', 'Anagrid', 'Anakross']
+
+LIST B
+['Backtrack', 'Backwards', 'Batoru', 'Boggle', 'Boxwise', 'Bracer']
+
+LIST C
+['Calcudoku', 'Campixu', 'Campsite', 'CanCan', 'Chopsticks']
+
+LIST D
+['Dampfross', 'Dateline', 'Diagramless', 'DigitALL', 'Dilemma', 'Dingbats', 'Dominoes']
+
+LIST E
+['Magipic', 'Majipiku', 'Masyu', 'MinuPlu']
+
+TASK 4 SECTION - String Lists 1. Using Python Built-in Functions:
+=================================================================
+We will be calculating assorted built-in functions including:
+Len, Set, and Zip.
+
+LIST A PROCESSING
+-----------------
+NUMBER OF ITEMS IN LIST A = 8
+SET = {'ABC', 'Alphacipher', 'Acrostic', 'Addoku', 'Acrofit', 'Anagrid', 'Anagrams', 'Anakross'}
+
+LIST B PROCESSING
+-----------------
+NUMBER OF ITEMS IN LIST B = 6
+SET = {'Boxwise', 'Bracer', 'Backtrack', 'Backwards', 'Batoru', 'Boggle'}
+
+LIST C PROCESSING
+-----------------
+NUMBER OF ITEMS IN LIST C = 5
+SET = {'Campixu', 'CanCan', 'Campsite', 'Calcudoku', 'Chopsticks'}
+
+
+LIST D PROCESSING
+-----------------
+NUMBER OF ITEMS IN LIST D = 7
+SET = {'Diagramless', 'Dampfross', 'Dominoes', 'DigitALL', 'Dingbats', 'Dilemma', 'Dateline'}
+
+LIST E PROCESSING
+-----------------
+NUMBER OF ITEMS IN LIST E = 4
+SET = {'Majipiku', 'Masyu', 'Magipic', 'MinuPlu'}
+
+TUPLE of LIST A & LISTB
+-----------------------
+LA=['ABC', 'Acrofit', 'Acrostic', 'Addoku', 'Alphacipher', 'Anagrams', 'Anagrid', 'Anakross']; LB=['Backtrack', 'Backwards', 'Batoru', 'Boggle', 'Boxwise', 'Bracer']
+LA=['ABC', 'Acrofit', 'Acrostic', 'Addoku', 'Alphacipher', 'Anagrams', 'Anagrid', 'Anakross']; LB=['Backtrack', 'Backwards', 'Batoru', 'Boggle', 'Boxwise', 'Bracer']
+LA=['ABC', 'Acrofit', 'Acrostic', 'Addoku', 'Alphacipher', 'Anagrams', 'Anagrid', 'Anakross']; LB=['Backtrack', 'Backwards', 'Batoru', 'Boggle', 'Boxwise', 'Bracer']
+LA=['ABC', 'Acrofit', 'Acrostic', 'Addoku', 'Alphacipher', 'Anagrams', 'Anagrid', 'Anakross']; LB=['Backtrack', 'Backwards', 'Batoru', 'Boggle', 'Boxwise', 'Bracer']
+LA=['ABC', 'Acrofit', 'Acrostic', 'Addoku', 'Alphacipher', 'Anagrams', 'Anagrid', 'Anakross']; LB=['Backtrack', 'Backwards', 'Batoru', 'Boggle', 'Boxwise', 'Bracer']
+LA=['ABC', 'Acrofit', 'Acrostic', 'Addoku', 'Alphacipher', 'Anagrams', 'Anagrid', 'Anakross']; LB=['Backtrack', 'Backwards', 'Batoru', 'Boggle', 'Boxwise', 'Bracer']
+
+TUPLE of LIST C & LIST D & LIST E
+--------------------------------
+LC=['Calcudoku', 'Campixu', 'Campsite', 'CanCan', 'Chopsticks']; LD=['Dampfross', 'Dateline', 'Diagramless', 'DigitALL', 'Dilemma', 'Dingbats', 'Dominoes']; LE=['Magipic', 'Majipiku', 'Masyu', 'MinuPlu']
+LC=['Calcudoku', 'Campixu', 'Campsite', 'CanCan', 'Chopsticks']; LD=['Dampfross', 'Dateline', 'Diagramless', 'DigitALL', 'Dilemma', 'Dingbats', 'Dominoes']; LE=['Magipic', 'Majipiku', 'Masyu', 'MinuPlu']
+LC=['Calcudoku', 'Campixu', 'Campsite', 'CanCan', 'Chopsticks']; LD=['Dampfross', 'Dateline', 'Diagramless', 'DigitALL', 'Dilemma', 'Dingbats', 'Dominoes']; LE=['Magipic', 'Majipiku', 'Masyu', 'MinuPlu']
+
+TASK 4 SECTION - String Lists 2. Random Lists:
+==============================================
+We will be using the Random Choice function
+
+Traceback (most recent call last):
+  File "c:\Users\JMC\Documents\datafun-03-datatypes\user_string_lists.py", line 125, in <module>
+    f"The five games I like to play the most are {random.choice(listA)}, {random.choice(list_B)}, "
+                                                                                        ^^^^^^
+NameError: name 'list_B' is not defined. Did you mean: 'listB'?
+PS C:\Users\JMC\Documents\datafun-03-datatypes> & C:/Users/JMC/AppData/Local/Programs/Python/Python311/python.exe c:/Users/JMC/Documents/datafun-03-datatypes/user_string_lists.py
+
+====================
+TASK 4 PROGRAM START
+====================
+
+LIST A
+['ABC', 'Acrofit', 'Acrostic', 'Addoku', 'Alphacipher', 'Anagrams', 'Anagrid', 'Anakross']
+
+LIST B
+['Backtrack', 'Backwards', 'Batoru', 'Boggle', 'Boxwise', 'Bracer']
+
+LIST C
+['Calcudoku', 'Campixu', 'Campsite', 'CanCan', 'Chopsticks']
+
+LIST D
+['Dampfross', 'Dateline', 'Diagramless', 'DigitALL', 'Dilemma', 'Dingbats', 'Dominoes']
+
+LIST E
+['Magipic', 'Majipiku', 'Masyu', 'MinuPlu']
+
+TASK 4 SECTION - String Lists 1. Using Python Built-in Functions:
+=================================================================
+We will be calculating assorted built-in functions including:
+Len, Set, and Zip.
+
+LIST A PROCESSING
+-----------------
+NUMBER OF ITEMS IN LIST A = 8
+SET = {'ABC', 'Anagrid', 'Alphacipher', 'Acrostic', 'Addoku', 'Anakross', 'Acrofit', 'Anagrams'}
+
+LIST B PROCESSING
+-----------------
+NUMBER OF ITEMS IN LIST B = 6
+SET = {'Backwards', 'Boggle', 'Bracer', 'Batoru', 'Backtrack', 'Boxwise'}
+
+LIST C PROCESSING
+-----------------
+NUMBER OF ITEMS IN LIST C = 5
+SET = {'Campixu', 'Calcudoku', 'Campsite', 'Chopsticks', 'CanCan'}
+
+
+LIST D PROCESSING
+-----------------
+NUMBER OF ITEMS IN LIST D = 7
+SET = {'DigitALL', 'Dominoes', 'Dingbats', 'Dilemma', 'Diagramless', 'Dateline', 'Dampfross'}
+
+LIST E PROCESSING
+-----------------
+NUMBER OF ITEMS IN LIST E = 4
+SET = {'Masyu', 'Majipiku', 'Magipic', 'MinuPlu'}
+
+TUPLE of LIST A & LISTB
+-----------------------
+LA=['ABC', 'Acrofit', 'Acrostic', 'Addoku', 'Alphacipher', 'Anagrams', 'Anagrid', 'Anakross']; LB=['Backtrack', 'Backwards', 'Batoru', 'Boggle', 'Boxwise', 'Bracer']
+LA=['ABC', 'Acrofit', 'Acrostic', 'Addoku', 'Alphacipher', 'Anagrams', 'Anagrid', 'Anakross']; LB=['Backtrack', 'Backwards', 'Batoru', 'Boggle', 'Boxwise', 'Bracer']
+LA=['ABC', 'Acrofit', 'Acrostic', 'Addoku', 'Alphacipher', 'Anagrams', 'Anagrid', 'Anakross']; LB=['Backtrack', 'Backwards', 'Batoru', 'Boggle', 'Boxwise', 'Bracer']
+LA=['ABC', 'Acrofit', 'Acrostic', 'Addoku', 'Alphacipher', 'Anagrams', 'Anagrid', 'Anakross']; LB=['Backtrack', 'Backwards', 'Batoru', 'Boggle', 'Boxwise', 'Bracer']
+LA=['ABC', 'Acrofit', 'Acrostic', 'Addoku', 'Alphacipher', 'Anagrams', 'Anagrid', 'Anakross']; LB=['Backtrack', 'Backwards', 'Batoru', 'Boggle', 'Boxwise', 'Bracer']
+LA=['ABC', 'Acrofit', 'Acrostic', 'Addoku', 'Alphacipher', 'Anagrams', 'Anagrid', 'Anakross']; LB=['Backtrack', 'Backwards', 'Batoru', 'Boggle', 'Boxwise', 'Bracer']
+
+TUPLE of LIST C & LIST D & LIST E
+--------------------------------
+LC=['Calcudoku', 'Campixu', 'Campsite', 'CanCan', 'Chopsticks']; LD=['Dampfross', 'Dateline', 'Diagramless', 'DigitALL', 'Dilemma', 'Dingbats', 'Dominoes']; LE=['Magipic', 'Majipiku', 'Masyu', 'MinuPlu']
+LC=['Calcudoku', 'Campixu', 'Campsite', 'CanCan', 'Chopsticks']; LD=['Dampfross', 'Dateline', 'Diagramless', 'DigitALL', 'Dilemma', 'Dingbats', 'Dominoes']; LE=['Magipic', 'Majipiku', 'Masyu', 'MinuPlu']
+LC=['Calcudoku', 'Campixu', 'Campsite', 'CanCan', 'Chopsticks']; LD=['Dampfross', 'Dateline', 'Diagramless', 'DigitALL', 'Dilemma', 'Dingbats', 'Dominoes']; LE=['Magipic', 'Majipiku', 'Masyu', 'MinuPlu']
+LC=['Calcudoku', 'Campixu', 'Campsite', 'CanCan', 'Chopsticks']; LD=['Dampfross', 'Dateline', 'Diagramless', 'DigitALL', 'Dilemma', 'Dingbats', 'Dominoes']; LE=['Magipic', 'Majipiku', 'Masyu', 'MinuPlu']
+
+TASK 4 SECTION - String Lists 2. Random Lists:
+==============================================
+We will be using the Random Choice function
+['ABC', 'Acrofit', 'Acrostic', 'Addoku', 'Alphacipher', 'Anagrams', 'Anagrid', 'Anakross']
+
+LIST B
+['Backtrack', 'Backwards', 'Batoru', 'Boggle', 'Boxwise', 'Bracer']
+
+Traceback (most recent call last):
+  File "c:\Users\JMC\Documents\datafun-03-datatypes\user_string_lists.py", line 135, in <module>
+    rint("LIST C")
+    ^^^^
+NameError: name 'rint' is not defined. Did you mean: 'print'?
+PS C:\Users\JMC\Documents\datafun-03-datatypes> & C:/Users/JMC/AppData/Local/Programs/Python/Python311/python.exe c:/Users/JMC/Documents/datafun-03-datatypes/user_string_lists.py
+
+====================
+TASK 4 PROGRAM START
+====================
+
+LIST A
+['ABC', 'Acrofit', 'Acrostic', 'Addoku', 'Alphacipher', 'Anagrams', 'Anagrid', 'Anakross']
+
+LIST B
+['Backtrack', 'Backwards', 'Batoru', 'Boggle', 'Boxwise', 'Bracer']
+
+LIST C
+['Calcudoku', 'Campixu', 'Campsite', 'CanCan', 'Chopsticks']
+
+LIST D
+['Dampfross', 'Dateline', 'Diagramless', 'DigitALL', 'Dilemma', 'Dingbats', 'Dominoes']
+
+LIST E
+['Magipic', 'Majipiku', 'Masyu', 'MinuPlu']
+
+TASK 4 SECTION - String Lists 1. Using Python Built-in Functions:
+=================================================================
+We will be calculating assorted built-in functions including:
+Len, Set, and Zip.
+
+LIST A PROCESSING
+-----------------
+NUMBER OF ITEMS IN LIST A = 8
+SET = {'Acrostic', 'Acrofit', 'ABC', 'Alphacipher', 'Anagrams', 'Anakross', 'Addoku', 'Anagrid'}
+
+LIST B PROCESSING
+-----------------
+NUMBER OF ITEMS IN LIST B = 6
+SET = {'Batoru', 'Boxwise', 'Bracer', 'Boggle', 'Backwards', 'Backtrack'}
+
+LIST C PROCESSING
+-----------------
+NUMBER OF ITEMS IN LIST C = 5
+SET = {'CanCan', 'Calcudoku', 'Chopsticks', 'Campsite', 'Campixu'}
+
+
+LIST D PROCESSING
+-----------------
+NUMBER OF ITEMS IN LIST D = 7
+SET = {'Dateline', 'Dominoes', 'Dilemma', 'DigitALL', 'Dingbats', 'Diagramless', 'Dampfross'}
+
+LIST E PROCESSING
+-----------------
+NUMBER OF ITEMS IN LIST E = 4
+SET = {'Majipiku', 'Masyu', 'Magipic', 'MinuPlu'}
+
+TUPLE of LIST A & LISTB
+-----------------------
+LA=['ABC', 'Acrofit', 'Acrostic', 'Addoku', 'Alphacipher', 'Anagrams', 'Anagrid', 'Anakross']; LB=['Backtrack', 'Backwards', 'Batoru', 'Boggle', 'Boxwise', 'Bracer']
+LA=['ABC', 'Acrofit', 'Acrostic', 'Addoku', 'Alphacipher', 'Anagrams', 'Anagrid', 'Anakross']; LB=['Backtrack', 'Backwards', 'Batoru', 'Boggle', 'Boxwise', 'Bracer']
+LA=['ABC', 'Acrofit', 'Acrostic', 'Addoku', 'Alphacipher', 'Anagrams', 'Anagrid', 'Anakross']; LB=['Backtrack', 'Backwards', 'Batoru', 'Boggle', 'Boxwise', 'Bracer']
+LA=['ABC', 'Acrofit', 'Acrostic', 'Addoku', 'Alphacipher', 'Anagrams', 'Anagrid', 'Anakross']; LB=['Backtrack', 'Backwards', 'Batoru', 'Boggle', 'Boxwise', 'Bracer']
+LA=['ABC', 'Acrofit', 'Acrostic', 'Addoku', 'Alphacipher', 'Anagrams', 'Anagrid', 'Anakross']; LB=['Backtrack', 'Backwards', 'Batoru', 'Boggle', 'Boxwise', 'Bracer']
+LA=['ABC', 'Acrofit', 'Acrostic', 'Addoku', 'Alphacipher', 'Anagrams', 'Anagrid', 'Anakross']; LB=['Backtrack', 'Backwards', 'Batoru', 'Boggle', 'Boxwise', 'Bracer']
+
+TUPLE of LIST C & LIST D & LIST E
+--------------------------------
+LC=['Calcudoku', 'Campixu', 'Campsite', 'CanCan', 'Chopsticks']; LD=['Dampfross', 'Dateline', 'Diagramless', 'DigitALL', 'Dilemma', 'Dingbats', 'Dominoes']; LE=['Magipic', 'Majipiku', 'Masyu', 'MinuPlu']
+LC=['Calcudoku', 'Campixu', 'Campsite', 'CanCan', 'Chopsticks']; LD=['Dampfross', 'Dateline', 'Diagramless', 'DigitALL', 'Dilemma', 'Dingbats', 'Dominoes']; LE=['Magipic', 'Majipiku', 'Masyu', 'MinuPlu']
+LC=['Calcudoku', 'Campixu', 'Campsite', 'CanCan', 'Chopsticks']; LD=['Dampfross', 'Dateline', 'Diagramless', 'DigitALL', 'Dilemma', 'Dingbats', 'Dominoes']; LE=['Magipic', 'Majipiku', 'Masyu', 'MinuPlu']
+LC=['Calcudoku', 'Campixu', 'Campsite', 'CanCan', 'Chopsticks']; LD=['Dampfross', 'Dateline', 'Diagramless', 'DigitALL', 'Dilemma', 'Dingbats', 'Dominoes']; LE=['Magipic', 'Majipiku', 'Masyu', 'MinuPlu']
+
+TASK 4 SECTION - String Lists 2. Random Lists:
+==============================================
+We will be using the Random Choice function
+
+LIST A
+['ABC', 'Acrofit', 'Acrostic', 'Addoku', 'Alphacipher', 'Anagrams', 'Anagrid', 'Anakross']
+
+LIST B
+['Backtrack', 'Backwards', 'Batoru', 'Boggle', 'Boxwise', 'Bracer']
+
+LIST C
+['Calcudoku', 'Campixu', 'Campsite', 'CanCan', 'Chopsticks']
+['Dampfross', 'Dateline', 'Diagramless', 'DigitALL', 'Dilemma', 'Dingbats', 'Dominoes']
+
+LIST E
+['Magipic', 'Majipiku', 'Masyu', 'MinuPlu']
+
+Traceback (most recent call last):
+  File "c:\Users\JMC\Documents\datafun-03-datatypes\user_string_lists.py", line 150, in <module>
+    f"The five games I like to play the most are {random.choice(listA)}, {random.choice(list_B)}, "
+                                                                                        ^^^^^^
+NameError: name 'list_B' is not defined. Did you mean: 'listB'?
+PS C:\Users\JMC\Documents\datafun-03-datatypes> & C:/Users/JMC/AppData/Local/Programs/Python/Python311/python.exe c:/Users/JMC/Documents/datafun-03-datatypes/user_string_lists.py
+
+====================
+TASK 4 PROGRAM START
+====================
+
+LIST A
+['ABC', 'Acrofit', 'Acrostic', 'Addoku', 'Alphacipher', 'Anagrams', 'Anagrid', 'Anakross']
+
+LIST B
+['Backtrack', 'Backwards', 'Batoru', 'Boggle', 'Boxwise', 'Bracer']
+
+LIST C
+['Calcudoku', 'Campixu', 'Campsite', 'CanCan', 'Chopsticks']
+
+LIST D
+['Dampfross', 'Dateline', 'Diagramless', 'DigitALL', 'Dilemma', 'Dingbats', 'Dominoes']
+
+LIST E
+['Magipic', 'Majipiku', 'Masyu', 'MinuPlu']
+
+TASK 4 SECTION - String Lists 1. Using Python Built-in Functions:
+=================================================================
+We will be calculating assorted built-in functions including:
+Len, Set, and Zip.
+
+LIST A PROCESSING
+-----------------
+NUMBER OF ITEMS IN LIST A = 8
+SET = {'Acrofit', 'Addoku', 'Anagrams', 'Acrostic', 'ABC', 'Alphacipher', 'Anakross', 'Anagrid'}
+
+LIST B PROCESSING
+-----------------
+NUMBER OF ITEMS IN LIST B = 6
+SET = {'Boggle', 'Boxwise', 'Batoru', 'Backwards', 'Bracer', 'Backtrack'}
+
+LIST C PROCESSING
+-----------------
+NUMBER OF ITEMS IN LIST C = 5
+SET = {'Campsite', 'Campixu', 'Chopsticks', 'Calcudoku', 'CanCan'}
+
+
+LIST D PROCESSING
+-----------------
+NUMBER OF ITEMS IN LIST D = 7
+SET = {'Dateline', 'Dilemma', 'Dingbats', 'Dampfross', 'DigitALL', 'Diagramless', 'Dominoes'}
+
+LIST E PROCESSING
+-----------------
+NUMBER OF ITEMS IN LIST E = 4
+SET = {'Magipic', 'MinuPlu', 'Majipiku', 'Masyu'}
+
+TUPLE of LIST A & LISTB
+-----------------------
+LA=['ABC', 'Acrofit', 'Acrostic', 'Addoku', 'Alphacipher', 'Anagrams', 'Anagrid', 'Anakross']; LB=['Backtrack', 'Backwards', 'Batoru', 'Boggle', 'Boxwise', 'Bracer']
+LA=['ABC', 'Acrofit', 'Acrostic', 'Addoku', 'Alphacipher', 'Anagrams', 'Anagrid', 'Anakross']; LB=['Backtrack', 'Backwards', 'Batoru', 'Boggle', 'Boxwise', 'Bracer']
+LA=['ABC', 'Acrofit', 'Acrostic', 'Addoku', 'Alphacipher', 'Anagrams', 'Anagrid', 'Anakross']; LB=['Backtrack', 'Backwards', 'Batoru', 'Boggle', 'Boxwise', 'Bracer']
+LA=['ABC', 'Acrofit', 'Acrostic', 'Addoku', 'Alphacipher', 'Anagrams', 'Anagrid', 'Anakross']; LB=['Backtrack', 'Backwards', 'Batoru', 'Boggle', 'Boxwise', 'Bracer']
+LA=['ABC', 'Acrofit', 'Acrostic', 'Addoku', 'Alphacipher', 'Anagrams', 'Anagrid', 'Anakross']; LB=['Backtrack', 'Backwards', 'Batoru', 'Boggle', 'Boxwise', 'Bracer']
+LA=['ABC', 'Acrofit', 'Acrostic', 'Addoku', 'Alphacipher', 'Anagrams', 'Anagrid', 'Anakross']; LB=['Backtrack', 'Backwards', 'Batoru', 'Boggle', 'Boxwise', 'Bracer']
+
+TUPLE of LIST C & LIST D & LIST E
+--------------------------------
+LC=['Calcudoku', 'Campixu', 'Campsite', 'CanCan', 'Chopsticks']; LD=['Dampfross', 'Dateline', 'Diagramless', 'DigitALL', 'Dilemma', 'Dingbats', 'Dominoes']; LE=['Magipic', 'Majipiku', 'Masyu', 'MinuPlu']
+LC=['Calcudoku', 'Campixu', 'Campsite', 'CanCan', 'Chopsticks']; LD=['Dampfross', 'Dateline', 'Diagramless', 'DigitALL', 'Dilemma', 'Dingbats', 'Dominoes']; LE=['Magipic', 'Majipiku', 'Masyu', 'MinuPlu']
+LC=['Calcudoku', 'Campixu', 'Campsite', 'CanCan', 'Chopsticks']; LD=['Dampfross', 'Dateline', 'Diagramless', 'DigitALL', 'Dilemma', 'Dingbats', 'Dominoes']; LE=['Magipic', 'Majipiku', 'Masyu', 'MinuPlu']
+LC=['Calcudoku', 'Campixu', 'Campsite', 'CanCan', 'Chopsticks']; LD=['Dampfross', 'Dateline', 'Diagramless', 'DigitALL', 'Dilemma', 'Dingbats', 'Dominoes']; LE=['Magipic', 'Majipiku', 'Masyu', 'MinuPlu']
+
+TASK 4 SECTION - String Lists 2. Random Lists:
+==============================================
+We will be using the Random Choice function
+
+LIST A
+['ABC', 'Acrofit', 'Acrostic', 'Addoku', 'Alphacipher', 'Anagrams', 'Anagrid', 'Anakross']
+
+LIST B
+['Backtrack', 'Backwards', 'Batoru', 'Boggle', 'Boxwise', 'Bracer']
+
+LIST C
+['Calcudoku', 'Campixu', 'Campsite', 'CanCan', 'Chopsticks']
+['Dampfross', 'Dateline', 'Diagramless', 'DigitALL', 'Dilemma', 'Dingbats', 'Dominoes']
+
+LIST E
+['Magipic', 'Majipiku', 'Masyu', 'MinuPlu']
+
+Traceback (most recent call last):
+  File "c:\Users\JMC\Documents\datafun-03-datatypes\user_string_lists.py", line 150, in <module>
+    f"The five games I like to play the most are {random.choice(listA)}, {random.choice(list_B)}, "
+                                                                                        ^^^^^^
+NameError: name 'list_B' is not defined. Did you mean: 'listB'?
+PS C:\Users\JMC\Documents\datafun-03-datatypes> & C:/Users/JMC/AppData/Local/Programs/Python/Python311/python.exe c:/Users/JMC/Documents/datafun-03-datatypes/user_string_lists.py
+
+====================
+TASK 4 PROGRAM START
+====================
+
+LIST A
+['ABC', 'Acrofit', 'Acrostic', 'Addoku', 'Alphacipher', 'Anagrams', 'Anagrid', 'Anakross']
+
+LIST B
+['Backtrack', 'Backwards', 'Batoru', 'Boggle', 'Boxwise', 'Bracer']
+
+LIST C
+['Calcudoku', 'Campixu', 'Campsite', 'CanCan', 'Chopsticks']
+
+LIST D
+['Dampfross', 'Dateline', 'Diagramless', 'DigitALL', 'Dilemma', 'Dingbats', 'Dominoes']
+
+LIST E
+['Magipic', 'Majipiku', 'Masyu', 'MinuPlu']
+
+TASK 4 SECTION - String Lists 1. Using Python Built-in Functions:
+=================================================================
+We will be calculating assorted built-in functions including:
+Len, Set, and Zip.
+
+LIST A PROCESSING
+-----------------
+NUMBER OF ITEMS IN LIST A = 8
+SET = {'Acrofit', 'Alphacipher', 'Addoku', 'Anakross', 'ABC', 'Acrostic', 'Anagrams', 'Anagrid'}
+
+LIST B PROCESSING
+-----------------
+NUMBER OF ITEMS IN LIST B = 6
+SET = {'Batoru', 'Bracer', 'Backtrack', 'Boggle', 'Backwards', 'Boxwise'}
+
+LIST C PROCESSING
+-----------------
+NUMBER OF ITEMS IN LIST C = 5
+SET = {'Calcudoku', 'Campsite', 'Chopsticks', 'CanCan', 'Campixu'}
+
+
+LIST D PROCESSING
+-----------------
+NUMBER OF ITEMS IN LIST D = 7
+SET = {'Dateline', 'Dilemma', 'Dampfross', 'Dominoes', 'Diagramless', 'Dingbats', 'DigitALL'}
+
+LIST E PROCESSING
+-----------------
+NUMBER OF ITEMS IN LIST E = 4
+SET = {'Majipiku', 'MinuPlu', 'Masyu', 'Magipic'}
+
+TUPLE of LIST A & LISTB
+-----------------------
+LA=['ABC', 'Acrofit', 'Acrostic', 'Addoku', 'Alphacipher', 'Anagrams', 'Anagrid', 'Anakross']; LB=['Backtrack', 'Backwards', 'Batoru', 'Boggle', 'Boxwise', 'Bracer']
+LA=['ABC', 'Acrofit', 'Acrostic', 'Addoku', 'Alphacipher', 'Anagrams', 'Anagrid', 'Anakross']; LB=['Backtrack', 'Backwards', 'Batoru', 'Boggle', 'Boxwise', 'Bracer']
+LA=['ABC', 'Acrofit', 'Acrostic', 'Addoku', 'Alphacipher', 'Anagrams', 'Anagrid', 'Anakross']; LB=['Backtrack', 'Backwards', 'Batoru', 'Boggle', 'Boxwise', 'Bracer']
+LA=['ABC', 'Acrofit', 'Acrostic', 'Addoku', 'Alphacipher', 'Anagrams', 'Anagrid', 'Anakross']; LB=['Backtrack', 'Backwards', 'Batoru', 'Boggle', 'Boxwise', 'Bracer']
+LA=['ABC', 'Acrofit', 'Acrostic', 'Addoku', 'Alphacipher', 'Anagrams', 'Anagrid', 'Anakross']; LB=['Backtrack', 'Backwards', 'Batoru', 'Boggle', 'Boxwise', 'Bracer']
+LA=['ABC', 'Acrofit', 'Acrostic', 'Addoku', 'Alphacipher', 'Anagrams', 'Anagrid', 'Anakross']; LB=['Backtrack', 'Backwards', 'Batoru', 'Boggle', 'Boxwise', 'Bracer']
+
+TUPLE of LIST C & LIST D & LIST E
+--------------------------------
+LC=['Calcudoku', 'Campixu', 'Campsite', 'CanCan', 'Chopsticks']; LD=['Dampfross', 'Dateline', 'Diagramless', 'DigitALL', 'Dilemma', 'Dingbats', 'Dominoes']; LE=['Magipic', 'Majipiku', 'Masyu', 'MinuPlu']
+LC=['Calcudoku', 'Campixu', 'Campsite', 'CanCan', 'Chopsticks']; LD=['Dampfross', 'Dateline', 'Diagramless', 'DigitALL', 'Dilemma', 'Dingbats', 'Dominoes']; LE=['Magipic', 'Majipiku', 'Masyu', 'MinuPlu']
+LC=['Calcudoku', 'Campixu', 'Campsite', 'CanCan', 'Chopsticks']; LD=['Dampfross', 'Dateline', 'Diagramless', 'DigitALL', 'Dilemma', 'Dingbats', 'Dominoes']; LE=['Magipic', 'Majipiku', 'Masyu', 'MinuPlu']
+LC=['Calcudoku', 'Campixu', 'Campsite', 'CanCan', 'Chopsticks']; LD=['Dampfross', 'Dateline', 'Diagramless', 'DigitALL', 'Dilemma', 'Dingbats', 'Dominoes']; LE=['Magipic', 'Majipiku', 'Masyu', 'MinuPlu']
+
+TASK 4 SECTION - String Lists 2. Random Lists:
+==============================================
+We will be using the Random Choice function
+
+LIST A
+['ABC', 'Acrofit', 'Acrostic', 'Addoku', 'Alphacipher', 'Anagrams', 'Anagrid', 'Anakross']
+
+LIST B
+['Backtrack', 'Backwards', 'Batoru', 'Boggle', 'Boxwise', 'Bracer']
+
+LIST C
+['Calcudoku', 'Campixu', 'Campsite', 'CanCan', 'Chopsticks']
+
+LIST D
+['Dampfross', 'Dateline', 'Diagramless', 'DigitALL', 'Dilemma', 'Dingbats', 'Dominoes']
+
+LIST E
+['Magipic', 'Majipiku', 'Masyu', 'MinuPlu']
+
+
+The five games I like to play the most are Anagrid, Boggle, Campsite, Dilemma, and Magipic.
+
+To see more results, add print statements to the code.
+To play a continuous game, modify the code.
+Use these examples to learn lists and transformations.
+Then apply what you know to your domain.
+
+PS C:\Users\JMC\Documents\datafun-03-datatypes> 

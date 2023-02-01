@@ -1,0 +1,11 @@
+["ABC", "Acrofit", "Acrostic", "Addoku", "Alphacipher", "Anagrams", "Anagrid", "Anakross]
+
+["Backtrack", "Backwards", "Batoru", "Boggle", "Boxwise", "Bracer", "Brickwork", "Bridges]
+
+
+["Calcudoku", "Campixu", "Campsite", "CanCan", "Chopsticks", "Cluewords", "Codeword", "Continuity]
+
+["Dampfross", "Dateline", "Diagramless", "DigitALL", "Dilemma", "Dingbats", "Dominoes", "Doppelstern]
+
+
+["Magipic", "Majipiku", "Masyu", "MinuPlu", "Misprints", "Mosaic", "Mosaico", "Mosaik]
